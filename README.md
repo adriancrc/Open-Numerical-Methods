@@ -3,7 +3,7 @@
 🌐 This README is also available in English 🇺🇸: [README.en.md](README.en.md)
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Open-Numerical-Methods)  
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/<FEX_ID>)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/181853-open-numerical-methods)
 
 ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Open-Numerical-Methods)
 ![Total Downloads](https://img.shields.io/github/downloads/adriancrc/Open-Numerical-Methods/total)
@@ -89,7 +89,7 @@ Este proyecto está licenciado bajo los términos definidos en el archivo [`LICE
 Si este material te fue útil, apóyame dejando una calificación positiva ⭐⭐⭐⭐⭐ en la página del proyecto.  
 ¡Tu retroalimentación ayuda a mejorar y seguir compartiendo recursos!
 
-[![Califica este proyecto](https://img.shields.io/badge/★★★★★-Califica%20en%20File%20Exchange-blueviolet?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/<FEX_ID>)
+[![Califica este proyecto](https://img.shields.io/badge/★★★★★-Califica%20en%20File%20Exchange-blueviolet?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/181853-open-numerical-methods)
 
 ---
 
